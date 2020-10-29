@@ -1,7 +1,5 @@
-# comp_epi
+# SPH028 - Computational Epidemiology
 MSc Health Data Analytics w/ Machine Learning (2018/19)
-
-SPH028 - Computational Epidemiology project
 
 Project 2: Assessing OMICs stability
 ------------------------------------
